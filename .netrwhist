@@ -1,6 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =4
-let g:netrw_dirhist_1='/Users/antonis/.oh-my-zsh'
-let g:netrw_dirhist_2='/Users/antonis/.oh-my-zsh/themes'
-let g:netrw_dirhist_3='/Users/antonis'
-let g:netrw_dirhist_4='/Users/antonis/Documents/work/projects/postNL/1640-RADAR/01-resources/RADAR Azure Source code/API/QNL.Spring.RL20.Azure/QNL.Spring.RL20.Azure.WebAPIs/Filters'
