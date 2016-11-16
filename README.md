@@ -18,4 +18,4 @@ Install every plugin under:
 	```
 	.vim/bundle/
 	```
-usinge git submodules.
+using git submodules.
