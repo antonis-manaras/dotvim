@@ -3,10 +3,10 @@ Vim plugins configuration
 
 ## Installation:
 
-* Move ~/.vimrc under .vim: 
+* Move ~/.vimrc under .vim (note that dot (.) is removed, vimrc will not be hidden under .vim): 
 	
 	```
-	mv ~/.vimrc ~/.vim/.vimrc
+	mv ~/.vimrc ~/.vim/vimrc
 	```
 * Create symlinks:
 	
