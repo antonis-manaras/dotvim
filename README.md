@@ -19,3 +19,22 @@ Install every plugin under:
 	.vim/bundle/
 	```
 using git submodules.
+
+## Submodules usage
+
+### Installation
+
+```
+cd ~/.vim
+git submodule init
+git submodule add git://github.com/<plugin-name>.git bundle/<plugin-name>
+git commit -m "Adds <plugin-name>"
+git push oririn master
+```
+### Uninstalling
+
+```
+git submodule deinit bundle/<plugin-name>
+git rm bundle/<plugin-name>
+rm -rf .git/modules/bundle/<plugin-name>
+```
