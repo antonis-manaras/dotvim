@@ -12,6 +12,20 @@ let g:airline#extensions#tabline#enabled = 1
 " Vim colorscheme
 "colorscheme py-darcula
 
+" Ayu template 
+set termguicolors
+"let ayucolor="light"
+"let ayucolor="mirage"
+let ayucolor="dark"
+colorscheme ayu
+
+" Indentline Ayu {{
+let g:indentline_char = ''
+let g:indentline_first_char = ''
+let g:indentline_showFirstIndentLevel = 1
+let g:indentline_setColors = 0
+" }}
+
 " Virtualenv
 let g:airline#extensions#virtualenv#enabled = 1
 
