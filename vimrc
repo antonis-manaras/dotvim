@@ -10,7 +10,7 @@ let g:airline#extensions#tabline#enabled = 1
 "let g:airline_theme = "darcula"
 
 " Vim colorscheme
-colorscheme py-darcula
+"colorscheme py-darcula
 
 " Virtualenv
 let g:airline#extensions#virtualenv#enabled = 1
